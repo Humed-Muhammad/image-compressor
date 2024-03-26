@@ -4,6 +4,9 @@
   "description": "Vscode Image Editor, Features include:- Compressing, Cropping, Resizing, Converting, etc...",
   "version": "0.0.1",
   "publisher": "HumedEssie",
+  "repository": {
+    "url": "https://github.com/Humed-Muhammad/image-compressor"
+  },
   "engines": {
     "vscode": "^1.25.0"
   },
